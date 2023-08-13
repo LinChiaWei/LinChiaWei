@@ -1,4 +1,4 @@
-### Hi there 👋
+###  You've reached the GitHub profile of Chia-Wei Lin 👋
 ![github stats](https://github-readme-stats.vercel.app/api?username=LinChiaWei&show_icons=true)
 
 <!--
